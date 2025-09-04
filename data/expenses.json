@@ -1,0 +1,58 @@
+[
+    {
+        "dateTime": "20-09-2024",
+        "description": "Dinner",
+        "category": "food",
+        "value": "60,00",
+        "type": "expense"
+    },
+    {
+        "dateTime": "20-08-2025",
+        "description": "Movie",
+        "category": "Fun",
+        "value": "48,00",
+        "type": "expense"
+    },
+    {
+        "dateTime": "10-10-2025",
+        "description": "Diner",
+        "category": "Food",
+        "value": "80,00",
+        "type": "expense"
+    },
+    {
+        "dateTime": "10-10-2025",
+        "description": "Movie",
+        "category": "Fun",
+        "value": 100.0,
+        "type": "income"
+    },
+    {
+        "dateTime": "10-10-2025",
+        "description": "dkjdkkd",
+        "category": "dsad",
+        "value": 10.0,
+        "type": "income"
+    },
+    {
+        "dateTime": "01-09-2025",
+        "description": "Market",
+        "category": "Food",
+        "value": 1200.0,
+        "type": "expense"
+    },
+    {
+        "dateTime": "01-09-2025",
+        "description": "Cinema",
+        "category": "",
+        "value": 44.0,
+        "type": "expense"
+    },
+    {
+        "dateTime": "01-09-2025",
+        "description": "Cinema",
+        "category": "Fun4",
+        "value": 44.0,
+        "type": "expense"
+    }
+]
