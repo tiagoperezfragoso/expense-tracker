@@ -20,6 +20,7 @@ expense/
 │
 ├── data/              # Stores JSON data
 │   └── expense.json   # Your expenses will be saved here
+│   └── categories.json   # Your expenses will be saved here
 │
 └── src/               # Source code
     └── main.py        # Entry point of the application
@@ -30,7 +31,7 @@ expense/
 ## ⚙️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/tiagoperezfragoso/expense-tracker.git
    cd expense-tracker
    ```
 
@@ -56,11 +57,12 @@ python src/main.py
 
 Example interaction:
 ```
-1 - Add expense
-2 - Add income
-3 - List transactions
-4 - Show summary
-5 - Exit
+1-Insert expense/income
+2-Remove expense/income
+3-Report per month
+4-List all expenses
+5-List all incomes
+6-List by category
 ```
 
 ---
